@@ -8,7 +8,7 @@ variable "bucket_location" {
 }
 variable "project_id" {
   type=string
-  default = "terraformproject-347311"
+  #default = "terraformproject-347311"
 }
 variable "storage_class" {
    type = string
